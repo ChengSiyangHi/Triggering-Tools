@@ -1,6 +1,5 @@
 # Triggering Tools
 Matlab codes for controlling hardware equipments in a optics lab. \
-Visit our lab website: https://gustavssonlab.rice.edu/ or contact me: sc201@rice.edu.
 
 ### Calibrarion Z scans
 Specifically for piezo stages from Mad City Labs, DAQ systems from National Instruments, and sCOMS cameras from Photometrics.\
